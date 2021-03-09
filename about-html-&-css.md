@@ -56,5 +56,6 @@ The <p> element contains paragraphs of the text. The content is written between 
 3. Inline - Placed inside a tag it will affect.`specific attributes for the section they are intended for`
 
 - [CSS resource](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+ ![Reference image](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 ---------------------
  
