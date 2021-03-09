@@ -19,6 +19,7 @@ The stylesheet created for the basic website
 - index.html
 - contact.html
 - about.html
+  - about-html.md `The text contents that will be used to create the body section of about.html`
 --------------------
 #### Uploaded image files
 `
