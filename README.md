@@ -19,3 +19,7 @@ The stylesheet created for the basic website
 - contact.html
 - about.html
 --------------------
+#### Uploaded image files
+##### Within a folder
+- pics/basic-website.png
+- pics/template-design.png
