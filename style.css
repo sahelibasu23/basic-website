@@ -1,4 +1,4 @@
-<!-- This is a css file -->
+
 * {
   box-sizing: border-box;
 }
@@ -69,6 +69,7 @@ body {
   background-color: white;
   padding: 20px;
 }
+
 
 /* Images, just for this example */
 .img {
