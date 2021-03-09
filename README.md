@@ -2,6 +2,7 @@
 
 ### File directory
 --------------------
+
 #### Previously created files
 ##### [Simple syntax website](https://sahelibasu23.github.io/basic-website/simple.html)
 - simple.html
@@ -20,6 +21,9 @@ The stylesheet created for the basic website
 - about.html
 --------------------
 #### Uploaded image files
+`
+To upload a folder in a github repository , simply *drag and drop* the folder from your PC to the upload interface.
+`
 ##### Within a folder
 `
 pics
@@ -27,3 +31,15 @@ pics
 - basic-website.png
 - template-design.png
 ---------------------
+#### Template files
+`
+Demonstrating the *drag and drop* function with the folder from PC to the upload interface.
+`
+##### Within a folder
+`
+template
+`
+- template-file.html
+- style.css
+
+--------------------
