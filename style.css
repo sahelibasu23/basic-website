@@ -57,21 +57,21 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 30%;
+  flex: 40%;
   background-color: #f1f1f1;
   padding: 10px;
 }
 
 /* Main column */
 .main {   
-  flex: 70%;
+  flex: 60%;
   background-color: white;
   padding: 20px;
 }
 
 /* Images, just for this example */
 .img {
-  width: 100%;
+  width: 50%;
   padding: 10px;
   height: 300px;
 }
