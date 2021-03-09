@@ -58,4 +58,13 @@ The <p> element contains paragraphs of the text. The content is written between 
 - [CSS resource](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
  ![Reference image](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 ---------------------
- 
+ `
+It is possible to put HTML inside markdown. For that,we add markdown="1" to your html element to tell the markdown parser to parse that as markdown.`
+```
+# Heading 1
+
+<div class="something" markdown="1">
+  ## Heading 2
+  Some **bold** text.
+</div>
+```
