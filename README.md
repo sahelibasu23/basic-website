@@ -14,7 +14,7 @@ The basic webpage created from basic HTML concepts
 ##### [Basic Website](https://sahelibasu23.github.io/basic-website/)
 - style.css
 `
-The stylesheet created for the basic website
+The stylesheet will be created after preparing the index.html file for the basic website 
 `
 - index.html
 - contact.html
