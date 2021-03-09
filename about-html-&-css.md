@@ -1,4 +1,4 @@
-# Basic HTML Concepts 
+# Basic HTML & CSS Concepts 
 
 Elements, tags, and attributes are basic concepts in HTML.
 
@@ -45,5 +45,16 @@ Heading elements contain different types of headings.
 There are six heading levels - <h1>-<h6>,  where <h1> is the most important and <h6> least important tags.
 The <p> element contains paragraphs of the text. The content is written between <p> and </p> tags.
  ```
- 
+- [Useful resource](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
+- [Html theories and practice materials](https://www.tutorialspoint.com/html/index.htm)
+---------------------
+
+## CSS information
+### There are three types of stylesheets:
+1. Internal - Placed right on the page whose interface it will affect.`within the <style></style> tags`
+2. External - Placed in a separate file.`maybe fetched from a different source or placed as a separate file in a folder/repository`
+3. Inline - Placed inside a tag it will affect.`specific attributes for the section they are intended for`
+
+- [CSS resource](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+---------------------
  
