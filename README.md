@@ -2,15 +2,17 @@
 
 ### File directory
 #### Previously created files
-- simple.html
+- [simple.html](https://sahelibasu23.github.io/basic-website/simple.html)
 `
 The basic webpage created from basic HTML concepts
 `
 #### Yet to be created files
-- index.html
-- contact.html
-- about.html
+##### [Basic Website](https://sahelibasu23.github.io/basic-website/)
 - style.css
 `
 The stylesheet created for the basic website
 `
+- index.html
+- contact.html
+- about.html
+
