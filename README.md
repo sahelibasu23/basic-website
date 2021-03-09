@@ -19,7 +19,7 @@ The stylesheet will be created after preparing the index.html file for the basic
 - index.html
 - contact.html
 - about.html
-  - about-html.md `The text contents that will be used to create the body section of about.html`
+  - about-html-&-css.md `The text contents that will be used to create the body section of about.html`
 --------------------
 #### Uploaded image files
 `
