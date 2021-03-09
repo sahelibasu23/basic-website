@@ -2,7 +2,8 @@
 
 ### File directory
 #### Previously created files
-- [simple.html](https://sahelibasu23.github.io/basic-website/simple.html)
+##### [Simple syntax website](https://sahelibasu23.github.io/basic-website/simple.html)
+- simple.html
 `
 The basic webpage created from basic HTML concepts
 `
