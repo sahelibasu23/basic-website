@@ -32,19 +32,19 @@ Every HTML document should start with this declaration so that the browsers can 
 *There exist several types of <!DOCTYPE> defined for each HTML version.*
 
 All the content on the webpage is written between <html> </html> tags.
-- The <html> element is used to give information to the browsers that it is an HTML document.
+- The html element is used to give information to the browsers that it is an HTML document.
 
-- The <head> element contains metadata (data about the HTML document), character set, document title, styles, etc. This data is not shown to viewers.
+- The head element contains metadata (data about the HTML document), character set, document title, styles, etc. This data is not shown to viewers.
 
-- The <title> displays the title of the website in the browser tab when the page is loaded. The title is written between <title> </title> tags.
+- The title displays the title of the website in the browser tab when the page is loaded. The title is written between <title> </title> tags.
 
-- The <meta> tags are snippets of text that describe a page's content; they don't appear on the page itself, but only in the page's source code. Meta tags are essentially little content descriptors that help tell search engines what a web page is about.
+- The meta tags are snippets of text that describe a page's content; they don't appear on the page itself, but only in the page's source code. Meta tags are essentially little content descriptors that help tell search engines what a web page is about.
 
 ### Why use UTF-8? 
  `An HTML page can only be in one encoding. You cannot encode different parts of a document in different encodings. `
  `A Unicode-based encoding such as UTF-8 can support many languages and can accommodate pages and forms in any mixture of those languages.`
 
-- The <body> element contains the content of the webpage (text, images, videos, etc). The content is written between <body> </body>.
+- The body element contains the content of the webpage (text, images, videos, etc). The content is written between <body> </body>.
 
 ```
 Heading elements contain different types of headings. 
