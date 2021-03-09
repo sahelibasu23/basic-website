@@ -1,5 +1,17 @@
 ## Welcome to the project repository
 
+### Task list:-
+
+1. Getting started ` Overview of simple.html created in Simple Webpage Creation in GitHub `
+2. Setting up other webpages ` Use basic concepts to create different styles of webpages`
+3. Create a website ` Creating index.html that will display the homepage and link the other pages`
+4. Setting up a template repository ` Use this repository as a template repository and reuse the structure for creating different websites`
+--------------------
+
+#### Recommended course
+- [Simple Webpage Creation in GitHub](https://coursera.org/projects/simple-web-page-creation-in-github)
+--------------------
+
 ### File directory
 --------------------
 
