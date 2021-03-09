@@ -1,4 +1,4 @@
-## Welcome to the project repository
+## Welcome to the [guided project](https://coursera.org/projects/web-page-creation-by-editing-a-template-in-github-l78gz) repository
 
 ### Task list:-
 
