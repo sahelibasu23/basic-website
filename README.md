@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the project repository
 
 ### File directory
 #### Previously created files
