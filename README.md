@@ -21,5 +21,8 @@ The stylesheet created for the basic website
 --------------------
 #### Uploaded image files
 ##### Within a folder
-- pics/basic-website.png
-- pics/template-design.png
+`
+pics
+`
+- basic-website.png
+- template-design.png
