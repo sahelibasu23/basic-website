@@ -10,7 +10,7 @@ body {
 
 /* Style the header */
 .header {
-  padding: 80px;
+  padding: 60px;
   text-align: center;
   background: #795548;
   color: white;
@@ -57,14 +57,15 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 20%;
+  flex: 30%;
   background-color: #f1f1f1;
   padding: 10px;
 }
 
 /* Main column */
 .main {   
-  flex: 80%;
+  flex: 70%;
+  float: right;
   background-color: white;
   padding: 20px;
 }
