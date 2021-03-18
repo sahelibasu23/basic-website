@@ -11,6 +11,12 @@
 
 #### Recommended course
 - [Simple Webpage Creation in GitHub](https://coursera.org/projects/simple-web-page-creation-in-github)
+`This course gives you the steps in creating a simple webpage called simple.html and also provides a template that could be used to create a personalized website`
+--------------------
+
+### Complete the following steps before proceeding:-
+- [Create a new repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
+`You can fork this repository but to follow along the steps,create a new repository by following the steps in "Create a new repository"`
 --------------------
 
 ### File directory
