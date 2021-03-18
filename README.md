@@ -63,5 +63,8 @@ template
 `
 - template-file.html
 - style.css
+###### Demonstration
+
+![Watch this video](https://user-images.githubusercontent.com/26185528/111661002-a605b180-8834-11eb-9772-d8311c335bf1.gif)
 
 --------------------
