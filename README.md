@@ -39,7 +39,7 @@ The stylesheet will be created after preparing the index.html file for the basic
 - contact.html
 - about.html
   - about-html-&-css.md `The text contents will be used to create a *gist* and then embedded in the body section of about.html`
-  - [The link of the gist](https://gist.github.com/MehaRima/9b00f3079f64717a1fda59b94ec7f537)
+  - [The link of the gist](https://gist.github.com/MehaRima/81607840909628357835694bfe487c54)
 
 --------------------
 #### Uploaded image files
