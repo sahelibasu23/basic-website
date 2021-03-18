@@ -17,6 +17,9 @@
 ### Complete the following steps before proceeding:-
 - [Create a new repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
 `You can fork this repository but to follow along the steps,create a new repository by following the steps in "Create a new repository"`
+###### Demonstration
+![create-new-repository](https://user-images.githubusercontent.com/26185528/111663526-e8c88900-8836-11eb-89dc-b9d26af76fe5.gif)
+
 --------------------
 
 ### File directory
